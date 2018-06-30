@@ -1,2 +1,2 @@
-# Programming_for_project_managers
+# Programming for project managers
 Support material for ADGEO paper
