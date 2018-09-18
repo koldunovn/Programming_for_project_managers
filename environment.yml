@@ -1,0 +1,10 @@
+name: python_for_pm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - pandas=0.20.3
+  - numpy=1.12.1
+  - matplotlib=2.0.2
+  - pip:
+      - docx=0.8.6
