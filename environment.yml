@@ -6,6 +6,7 @@ dependencies:
   - pandas=0.20.3
   - numpy=1.12.1
   - matplotlib=2.0.2
+  - seaborn=0.8.1
   - pip:
       - python-docx==0.8.6
       - openpyxl==2.5.1
