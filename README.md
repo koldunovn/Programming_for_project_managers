@@ -1,5 +1,6 @@
 # Programming for project managers
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/koldunovn/Programming_for_project_managers/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/koldunovn/Programming_for_project_managers/master) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1452254.svg)](https://doi.org/10.5281/zenodo.1452254)
+
 
 This repository contains supporting material for ADGEO paper "Programming as a soft skill for project managers: How to have a computer take over some of your work".
 
